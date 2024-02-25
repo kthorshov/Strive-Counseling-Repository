@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: This Is Everything I Know: A 24-Hour Comic About Comics.	</title>
+	<atom:link href="https://github.com/kthorshov/Strive-Counseling-Repository/this-is-everything-i-know-a-24-hour-comic-about/feed/" rel="self" type="application/rss+xml" />
+	<link>https://github.com/kthorshov/Strive-Counseling-Repository/this-is-everything-i-know-a-24-hour-comic-about/</link>
+	<description>Create Your Website</description>
+	<lastBuildDate>Mon, 23 Mar 2015 21:35:15 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+</channel>
+</rss>
